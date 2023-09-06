@@ -5,7 +5,7 @@ using Microsoft.Extensions.FileProviders;
 
 namespace BookAPI.Controllers
 {
-    [Route("api/controller")]
+    [Route("api/Books")]
     [ApiController]
     public class BookController : ControllerBase
     {
